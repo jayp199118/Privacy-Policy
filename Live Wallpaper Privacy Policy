@@ -4,4 +4,4 @@ This app uses the following permissions from the user:
 <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"/>
 <uses-permission android:name="com.google.android.gms.permission.AD_ID"/>
 
-This app does not collect any perosnal data. 
+This app does not collect any personal data. 
